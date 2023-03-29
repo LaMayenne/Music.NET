@@ -8,9 +8,9 @@ Music.NET is a music player made in Visual Basic using the .NET Framework. It is
 
 Once Music.NET will be made public, you will be able to download it via the website at https://lamayenne.github.io/Music.NET or in releases on GitHub.
 
-## Early screenshots
+## Early screenshot
 
-
+![Main UI](https://raw.githubusercontent.com/LaMayenne/Music.NET/main/resources/screenshot-main1.png)
 
 ## How to contribute
 
